@@ -12,7 +12,7 @@ Usage :
 4) ./encrypt_decrypt.py
 
 
-<h2> You could run this program by this alternative command without making the file executable</h2>
+<h4> You could run this program by this alternative command without making the file executable</h4>
 
 python3 encrypt_decrypt.py
           
