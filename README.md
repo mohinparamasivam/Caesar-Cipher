@@ -8,7 +8,7 @@ Usage :
 
 1) git clone https://github.com/mohinparamasivam/Caesar_Cipher.git
 2) cd Caesar_Cipher
-3) python3 encrypt_decrypt.py
+3) python3 encrypt_decrypt.py / python3 encrypt_decrypt_version2.py
 
 
 
